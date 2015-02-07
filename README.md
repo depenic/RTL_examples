@@ -7,6 +7,7 @@ All of this code is verified and synthesized. Waveform and short documents will 
 # Setup
 
 Setup Git/GitHub avaiable in : https://help.github.com/articles/set-up-git
+Cloning: https://help.github.com/articles/which-remote-url-should-i-use/
 
 # List of modules
 
@@ -44,6 +45,8 @@ Setup Git/GitHub avaiable in : https://help.github.com/articles/set-up-git
 
 **SystemC**            
 
+# Copyright
 
+HDL Noodle (c) 2014-2015
 
 
