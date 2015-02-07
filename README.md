@@ -4,6 +4,11 @@ This project aims to provide every module you need for HDL design which mainly i
 
 All of this code is verified and synthesized. Waveform and short documents will be attached.
 
-# Copyright
+# List of modules
+
+1. DFF: on-going.
+ 
+
+
 
 
