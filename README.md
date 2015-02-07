@@ -4,6 +4,8 @@ This project aims to provide every module you need for HDL design which mainly i
 
 All of this code is verified and synthesized. Waveform and short documents will be attached.
 
+This project was formerly named as TITAN. 
+
 # Setup
 
 Setup Git/GitHub avaiable in : https://help.github.com/articles/set-up-git
